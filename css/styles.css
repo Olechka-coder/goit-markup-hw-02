@@ -75,6 +75,10 @@ height: 56px;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background-color: #4d5ae5;
 }
+
+.main-section{
+background-color: #2e2f42;
+}
 .main-title-but:hover{
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background-color: #404bbf;
