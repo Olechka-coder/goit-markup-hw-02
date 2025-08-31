@@ -62,24 +62,26 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 background-color: #2e2f42;
-background-size: width: 1440px;
-height: 600px;;
+
+
 }
 
 .main-title-but{
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
 cursor: pointer;
 border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+color: #ffffff;
 background-color: #4d5ae5;
 }
 
 .main-section{
 background-color: #2e2f42;
 }
-.main-title-but:hover{
+.main-title-but:hover,
+.main-title-but:focus{
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background-color: #404bbf;
 }
