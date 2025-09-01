@@ -62,8 +62,6 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 background-color: #2e2f42;
-
-
 }
 
 .main-title-but{
@@ -111,7 +109,13 @@ color: #434455;
 }
 
 .third-section{
-background-color: #f4f4fd;}
+background-color: #f4f4fd;
+}
+
+.third-section-item{
+background-color: #ffffff;
+}
+ 
 
 .page-footer{
 background-color: #2e2f42;
